@@ -1,6 +1,6 @@
 function Dashboard() {
   return (
-    <div className="bg-[#F6F7F8]">
+    <div>
         hiasdasd
     </div>
   )
