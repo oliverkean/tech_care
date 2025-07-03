@@ -6,7 +6,7 @@ import TestLogo from "../assets/images/TestLogo.png";
 import profile from "../assets/images/profile.png";
 function Navbar() {
   return (
-    <div className="w-full bg-white rounded-full my-6">
+    <div className="w-full bg-white rounded-full my-6 shadow-md">
       <div className="flex justify-between items-center px-4 py-3">
         <div>
           <img src={TestLogo} alt="Logo" className="h-10" />
